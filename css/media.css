@@ -7,6 +7,12 @@
   .bookmark {
     display: none;
   }
+  .down {
+    font-size: 1.6em;
+  }
+  .getin-chrome {
+    margin-bottom: 2em;
+  }
   .link {
     margin-left: 0px;
     padding-top: 2em;
@@ -23,7 +29,7 @@
     font-size: 0.5em;
   }
   .tv {
-    width: 33em;
+    width: 18em;
     padding-top: 3em;
   }
   .user-bookmark {
@@ -34,7 +40,7 @@
   .GoViral {
     margin-right: 0%;
     padding-top: 3em;
-    width: 32em;
+    width: 19em;
   }
   .down {
     font-size: 3em;
@@ -63,6 +69,12 @@
   .bookmark {
     display: none;
   }
+  .down {
+    font-size: 1.6em;
+  }
+  .getin-chrome {
+    margin-bottom: 2em;
+  }
   .link {
     margin-left: 0px;
     padding-top: 2em;
@@ -79,7 +91,7 @@
     font-size: 0.5em;
   }
   .tv {
-    width: 33em;
+    width: 18em;
     padding-top: 3em;
   }
   .user-bookmark {
@@ -90,7 +102,7 @@
   .GoViral {
     margin-right: 0%;
     padding-top: 3em;
-    width: 32em;
+    width: 18em;
   }
   .down {
     font-size: 3em;
@@ -110,7 +122,7 @@
   }
 }
 /* Medium devices (tablets, less than 992px) */
-@media (max-width: 1000) {
+@media (max-width: 1263) {
   .icon-link {
     display: flex;
     flex-direction: column;
@@ -135,8 +147,14 @@
     font-size: 0.5em;
   }
   .tv {
-    width: 33em;
+    width: 18em;
     padding-top: 3em;
+  }
+  .down {
+    font-size: 1.6em;
+  }
+  .getin-chrome {
+    margin-bottom: 2em;
   }
   .user-bookmark {
     display: flex;
@@ -146,7 +164,7 @@
   .GoViral {
     margin-right: 0%;
     padding-top: 3em;
-    width: 32em;
+    width: 18em;
   }
   .down {
     font-size: 3em;
