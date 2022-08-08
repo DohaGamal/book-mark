@@ -1,0 +1,171 @@
+@media (max-width: 575.98px) {
+  .icon-link {
+    display: flex;
+    flex-direction: column;
+    padding-left: 3em;
+  }
+  .bookmark {
+    display: none;
+  }
+  .link {
+    margin-left: 0px;
+    padding-top: 2em;
+  }
+  .simple-bookmarmanger {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+  }
+  .head {
+    font-size: 12px;
+  }
+  .para {
+    font-size: 0.5em;
+  }
+  .tv {
+    width: 33em;
+    padding-top: 3em;
+  }
+  .user-bookmark {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 5%;
+  }
+  .GoViral {
+    margin-right: 0%;
+    padding-top: 3em;
+    width: 32em;
+  }
+  .down {
+    font-size: 3em;
+  }
+  .social-media {
+    display: flex;
+    flex-direction: column;
+  }
+  .c-f-o {
+    padding-bottom: 4em;
+  }
+  .head-social {
+    font-size: 10px;
+  }
+  .para-social {
+    font-size: 10px;
+  }
+}
+/* Small devices (landscape phones, less than 768px)  */
+@media (max-width: 767.98px) {
+  .icon-link {
+    display: flex;
+    flex-direction: column;
+    padding-left: 3em;
+  }
+  .bookmark {
+    display: none;
+  }
+  .link {
+    margin-left: 0px;
+    padding-top: 2em;
+  }
+  .simple-bookmarmanger {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+  }
+  .head {
+    font-size: 12px;
+  }
+  .para {
+    font-size: 0.5em;
+  }
+  .tv {
+    width: 33em;
+    padding-top: 3em;
+  }
+  .user-bookmark {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 5%;
+  }
+  .GoViral {
+    margin-right: 0%;
+    padding-top: 3em;
+    width: 32em;
+  }
+  .down {
+    font-size: 3em;
+  }
+  .social-media {
+    display: flex;
+    flex-direction: column;
+  }
+  .c-f-o {
+    padding-bottom: 4em;
+  }
+  .head-social {
+    font-size: 10px;
+  }
+  .para-social {
+    font-size: 10px;
+  }
+}
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 1000) {
+  .icon-link {
+    display: flex;
+    flex-direction: column;
+    padding-left: 3em;
+  }
+  .bookmark {
+    display: none;
+  }
+  .link {
+    margin-left: 0px;
+    padding-top: 2em;
+  }
+  .simple-bookmarmanger {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+  }
+  .head {
+    font-size: 12px;
+  }
+  .para {
+    font-size: 0.5em;
+  }
+  .tv {
+    width: 33em;
+    padding-top: 3em;
+  }
+  .user-bookmark {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 5%;
+  }
+  .GoViral {
+    margin-right: 0%;
+    padding-top: 3em;
+    width: 32em;
+  }
+  .down {
+    font-size: 3em;
+  }
+  .social-media {
+    display: flex;
+    flex-direction: column;
+  }
+  .c-f-o {
+    padding-bottom: 4em;
+  }
+  .head-social {
+    font-size: 10px;
+  }
+  .para-social {
+    font-size: 10px;
+  }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+}
